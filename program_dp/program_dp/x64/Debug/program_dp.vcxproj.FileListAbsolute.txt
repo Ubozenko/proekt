@@ -1,0 +1,13 @@
+D:\proekt\program_dp\program_dp\x64\Debug\program_dp.vcxproj.AssemblyReference.cache
+D:\proekt\program_dp\program_dp\x64\Debug\programdp.loginForm.resources
+D:\proekt\program_dp\program_dp\x64\Debug\program_dp.vcxproj.GenerateResource.cache
+D:\proekt\program_dp\program_dp\x64\Debug\programdp.registrationForm.resources
+D:\proekt\program_dp\program_dp\x64\Debug\programdp.adminForm.resources
+D:\proekt\program_dp\program_dp\x64\Debug\programdp.masterForm.resources
+D:\proekt\program_dp\program_dp\x64\Debug\programdp.stockForm.resources
+D:\proekt\program_dp\program_dp\x64\Debug\programdp.userinfoForm.resources
+D:\proekt\program_dp\program_dp\x64\Debug\programdp.reportForm.resources
+D:\proekt\program_dp\program_dp\x64\Debug\programdp.regloginpassForm.resources
+D:\proekt\program_dp\program_dp\x64\Debug\programdp.regmasterForm.resources
+D:\proekt\program_dp\program_dp\x64\Debug\programdp.infomasterForm.resources
+D:\proekt\program_dp\program_dp\x64\Debug\programdp.ProfileForm.resources
